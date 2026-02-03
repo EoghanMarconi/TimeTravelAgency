@@ -1,6 +1,6 @@
 # ⏳ TimeTravel Agency
 
-![TimeTravel Agency Preview](./src/assets/images/video.mp4)
+![TimeTravel Agency Preview](./src/assets/video.mp4)
 
 **TimeTravel Agency** est une application web immersive et futuriste simulant une agence de voyage temporelle.  
 Elle permet aux utilisateurs de découvrir, planifier et réserver des séjours dans le passé (Égypte Antique, Rome…) ou le futur (Solarpunk 2150).
@@ -90,16 +90,14 @@ npm install
 ```
 ### 3. Configuration de l’environnement
 ```bash
-Créer un fichier .env à la racine :
-
-GEMINI_API_KEY=VOTRE_CLE_API_GEMINI
+echo "GEMINI_API_KEY=VOTRE_CLE_API_GEMINI" >> .env
 ```
 ### 4. Lancer le projet
 ```bash
 npm run dev
 ```
-## Application accessible sur :
-# 👉 http://localhost:5173
+### Application accessible sur :
+### 👉 http://localhost:5173
 
 ### 📂 Structure du Projet
 ```bash
