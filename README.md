@@ -14,6 +14,15 @@ Le projet met l’accent sur une **expérience utilisateur fluide**, un **design
 
 - **Navigation fluide**  
   Architecture SPA avec transitions animées.
+  
+- **Galerie de destinations temporelles**
+  - L'Atlantide
+  - Égypte Antique
+  - Rome Impériale
+  - Normandie
+  - Florence
+  - Europe Médiévale
+  - Futur Solarpunk
 
 - **🤖 Chatbot IA – Chronos**  
   Assistant conversationnel intelligent capable de répondre aux questions sur :
