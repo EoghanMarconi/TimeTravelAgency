@@ -12,7 +12,7 @@ Le projet met l’accent sur une **expérience utilisateur fluide**, un **design
 ## ✨ Fonctionnalités Implémentées
 
 - **Design immersif**  
-  Dark Mode, Glassmorphism, effets néon et typographies futuristes.
+  Glassmorphism, effets néon et typographies futuristes.
 
 - **Navigation fluide**  
   Architecture SPA avec transitions animées.
@@ -22,6 +22,7 @@ Le projet met l’accent sur une **expérience utilisateur fluide**, un **design
   - les destinations
   - les périodes temporelles
   - les règles de sécurité temporelle
+  - Et plus encore
 
 - **🧠 Quiz de recommandation IA**  
   Analyse des préférences utilisateur pour proposer la destination idéale.
@@ -65,8 +66,8 @@ Les prompts sont enrichis avec les données provenant de `lib/destinations.ts`.
 
 ### 2. IA en développement
 
-- Assistance au code (Copilot / IA générative)
-- Génération de concepts visuels (Midjourney / Runway)
+- Assistance au code (Copilot / Gemini 3 Pro Preview)
+- Génération de concepts visuels (Leonardo AI / Runway / Hailuo AI /)
 
 ---
 
@@ -82,20 +83,26 @@ Les prompts sont enrichis avec les données provenant de `lib/destinations.ts`.
 ```bash
 git clone https://github.com/votre-username/timetravel-agency.git
 cd timetravel-agency
-2. Installer les dépendances
+```
+### 2. Installer les dépendances
+```bash
 npm install
-3. Configuration de l’environnement
+```
+### 3. Configuration de l’environnement
+```bash
 Créer un fichier .env à la racine :
 
 GEMINI_API_KEY=VOTRE_CLE_API_GEMINI
-
-4. Lancer le projet
-
-npm run dev
-Application accessible sur :
-👉 http://localhost:5173
 ```
-## 📂 Structure du Projet
+### 4. Lancer le projet
+```bash
+npm run dev
+```
+## Application accessible sur :
+# 👉 http://localhost:5173
+
+### 📂 Structure du Projet
+```bash
 /
 ├── app/
 │   ├── destinations/
@@ -129,7 +136,7 @@ Application accessible sur :
 ├── tsconfig.json
 ├── package.json
 └── README.md
-
+```
 ## 📄 Crédits
 Images : Unsplash
 
