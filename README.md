@@ -104,7 +104,7 @@ echo "GEMINI_API_KEY=VOTRE_CLE_API_GEMINI" >> .env
 npm run dev
 ```
 ### Application accessible sur :
-### 👉 http://localhost:5173
+### 👉 http://localhost:3001
 
 ### 📂 Structure du Projet
 ```bash
