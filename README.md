@@ -1,7 +1,5 @@
 # ⏳ TimeTravel Agency
 
-![TimeTravel Agency Preview](./src/assets/video.mp4)
-
 **TimeTravel Agency** est une application web immersive et futuriste simulant une agence de voyage temporelle.  
 Elle permet aux utilisateurs de découvrir, planifier et réserver des séjours dans le passé (Égypte Antique, Rome…) ou le futur (Solarpunk 2150).
 
@@ -81,8 +79,8 @@ Les prompts sont enrichis avec les données provenant de `lib/destinations.ts`.
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-username/timetravel-agency.git
-cd timetravel-agency
+git clone https://github.com/EoghanMarconi/TimeTravelAgency.git
+cd TimeTravelAgency
 ```
 ### 2. Installer les dépendances
 ```bash
